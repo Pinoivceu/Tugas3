@@ -42,6 +42,7 @@
 
         <footer>
             <div class="container">
+                <h2>Welcome</h2>
                  <div class="social">
                     <a href="#" class="href img">
                         <img src="asset/facebook.svg" alt="facebook link" style="width: 30px; ;height: 30px ;">
