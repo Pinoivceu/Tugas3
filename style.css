@@ -131,8 +131,9 @@ footer{
     align-items: center;
     justify-content: center;
     text-align: center;
+    
     font-family: 'minecraft';
-    background-color:black;
+    background-color:pink;
     margin-top: 25px;
     
 }
